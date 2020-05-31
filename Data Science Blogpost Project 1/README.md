@@ -18,7 +18,7 @@ including:
 * the number of people who have reportedly died while sick with Coronavirus
 * the number of people who have reportedly recovered from it
 
-> The data is available from 22 Jan, 2020 to 29 May.
+> The data is available from 22 Jan, 2020 to 29 May, 2020 .
 
 ## Repo Layout
 
