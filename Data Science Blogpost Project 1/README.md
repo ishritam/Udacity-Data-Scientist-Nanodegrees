@@ -1,7 +1,12 @@
 # Data Science Nanodegree Project 1: Write a Data Science Blogpost
 
 Author: Shritam Kumar Mund
+
+Blog : 
+
 Published date: 2020-05-31
+
+
 
 
 ## Description
