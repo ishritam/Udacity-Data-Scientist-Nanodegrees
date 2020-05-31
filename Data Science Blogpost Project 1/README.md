@@ -2,7 +2,7 @@
 
 Author: Shritam Kumar Mund
 
-Blog : 
+Blog : https://medium.com/@shritamkumarmund.98/covid-19-data-analysis-1d665c5f5473
 
 Published date: 2020-05-31
 
